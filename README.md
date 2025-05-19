@@ -29,7 +29,6 @@ I'm open to collaborating on:
 
 - 📧 Email: **manishdatascientist1176@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/manish1176](https://www.linkedin.com/in/manish-channe-16414130b/)
-- 🌐 Portfolio: *Coming Soon...*
 
 ---
 
