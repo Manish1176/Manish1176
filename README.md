@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Manish Kumar
+## 👋 Hi there, I'm Manish Channe
 Welcome to my GitHub! I'm passionate about using **Data Science** and **Artificial Intelligence** to solve real-world problems across diverse domains like healthcare, retail, and manufacturing.
 
 ----
